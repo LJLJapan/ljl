@@ -1,0 +1,45 @@
+.\objects\ff.o: ..\FatFs\FatFs\src\ff.c
+.\objects\ff.o: ..\FatFs\FatFs\src\ff.h
+.\objects\ff.o: ..\FatFs\FatFs\src\integer.h
+.\objects\ff.o: ..\FatFs\FatFs\src\ffconf.h
+.\objects\ff.o: ..\Firmware\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h
+.\objects\ff.o: ..\Firmware\CMSIS\core_cm4.h
+.\objects\ff.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ff.o: ..\Firmware\CMSIS\core_cmInstr.h
+.\objects\ff.o: ..\Firmware\CMSIS\core_cmFunc.h
+.\objects\ff.o: ..\Firmware\CMSIS\core_cm4_simd.h
+.\objects\ff.o: ..\Firmware\CMSIS\GD\GD32F4xx\Include\system_gd32f4xx.h
+.\objects\ff.o: ..\User\gd32f4xx_libopt.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_rcu.h
+.\objects\ff.o: ..\Firmware\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_adc.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_can.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_crc.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_ctc.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_dac.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_dbg.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_dci.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_dma.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_exti.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_fmc.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_fwdgt.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_gpio.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_syscfg.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_i2c.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_iref.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_pmu.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_rtc.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_sdio.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_spi.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_timer.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_trng.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_usart.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_wwdgt.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_misc.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_enet.h
+.\objects\ff.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_exmc.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_ipa.h
+.\objects\ff.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_tli.h
+.\objects\ff.o: ..\FatFs\FatFs\src\diskio.h
+.\objects\ff.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\stdarg.h

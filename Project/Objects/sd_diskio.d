@@ -1,0 +1,74 @@
+.\objects\sd_diskio.o: ..\FatFs\FatFs\src\drivers\sd_diskio.c
+.\objects\sd_diskio.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\sd_diskio.o: ..\FatFs\FatFs\src\ff_gen_drv.h
+.\objects\sd_diskio.o: ..\FatFs\FatFs\src\diskio.h
+.\objects\sd_diskio.o: ..\FatFs\FatFs\src\integer.h
+.\objects\sd_diskio.o: ..\FatFs\FatFs\src\ff.h
+.\objects\sd_diskio.o: ..\FatFs\FatFs\src\ffconf.h
+.\objects\sd_diskio.o: ..\Firmware\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h
+.\objects\sd_diskio.o: ..\Firmware\CMSIS\core_cm4.h
+.\objects\sd_diskio.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sd_diskio.o: ..\Firmware\CMSIS\core_cmInstr.h
+.\objects\sd_diskio.o: ..\Firmware\CMSIS\core_cmFunc.h
+.\objects\sd_diskio.o: ..\Firmware\CMSIS\core_cm4_simd.h
+.\objects\sd_diskio.o: ..\Firmware\CMSIS\GD\GD32F4xx\Include\system_gd32f4xx.h
+.\objects\sd_diskio.o: ..\User\gd32f4xx_libopt.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_rcu.h
+.\objects\sd_diskio.o: ..\Firmware\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_adc.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_can.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_crc.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_ctc.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_dac.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_dbg.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_dci.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_dma.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_exti.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_fmc.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_fwdgt.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_gpio.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_syscfg.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_i2c.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_iref.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_pmu.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_rtc.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_sdio.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_spi.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_timer.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_trng.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_usart.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_wwdgt.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_misc.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_enet.h
+.\objects\sd_diskio.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_exmc.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_ipa.h
+.\objects\sd_diskio.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_tli.h
+.\objects\sd_diskio.o: ..\Hardware\sdio\bsp_sdcard.h
+.\objects\sd_diskio.o: ..\User\main.h
+.\objects\sd_diskio.o: ..\User\systick.h
+.\objects\sd_diskio.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\sd_diskio.o: ..\Hardware\led\bsp_led.h
+.\objects\sd_diskio.o: ..\Hardware\usart\bsp_usart.h
+.\objects\sd_diskio.o: ..\Hardware\key\bsp_key.h
+.\objects\sd_diskio.o: ..\Hardware\timer\bsp_basic_timer.h
+.\objects\sd_diskio.o: ..\Hardware\spi\bsp_spi.h
+.\objects\sd_diskio.o: ..\Hardware\dma\bsp_dma.h
+.\objects\sd_diskio.o: ..\Hardware\sdio\sdcard.h
+.\objects\sd_diskio.o: ..\Hardware\sdio\bsp_sdcard.h
+.\objects\sd_diskio.o: ..\Hardware\lcd\bsp_lcd.h
+.\objects\sd_diskio.o: ..\User\main.h
+.\objects\sd_diskio.o: ..\Hardware\adc\bsp_adc.h
+.\objects\sd_diskio.o: ..\Hardware\dac\bsp_dac.h
+.\objects\sd_diskio.o: ..\Hardware\sdram\exmc_sdram.h
+.\objects\sd_diskio.o: ..\Hardware\spi\ws_drive_w25qxx.h
+.\objects\sd_diskio.o: ..\Hardware\core\wb_core.h
+.\objects\sd_diskio.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\sd_diskio.o: ..\Hardware\fft\fft.h
+.\objects\sd_diskio.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\sd_diskio.o: ..\DSP_LIB\Include\arm_math.h
+.\objects\sd_diskio.o: ..\DSP_LIB\Include\core_cm4.h
+.\objects\sd_diskio.o: ..\DSP_LIB\Include\arm_const_structs.h
+.\objects\sd_diskio.o: ..\DSP_LIB\Include\arm_common_tables.h
+.\objects\sd_diskio.o: ..\FatFs\FatFs\src\fatfs.h
+.\objects\sd_diskio.o: ..\FatFs\FatFs\src\drivers\sd_diskio.h

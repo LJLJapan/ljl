@@ -1,0 +1,75 @@
+.\objects\bsp_lcd.o: ..\Hardware\lcd\bsp_lcd.c
+.\objects\bsp_lcd.o: ..\Hardware\lcd\bsp_lcd.h
+.\objects\bsp_lcd.o: ..\User\main.h
+.\objects\bsp_lcd.o: ..\Firmware\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h
+.\objects\bsp_lcd.o: ..\Firmware\CMSIS\core_cm4.h
+.\objects\bsp_lcd.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bsp_lcd.o: ..\Firmware\CMSIS\core_cmInstr.h
+.\objects\bsp_lcd.o: ..\Firmware\CMSIS\core_cmFunc.h
+.\objects\bsp_lcd.o: ..\Firmware\CMSIS\core_cm4_simd.h
+.\objects\bsp_lcd.o: ..\Firmware\CMSIS\GD\GD32F4xx\Include\system_gd32f4xx.h
+.\objects\bsp_lcd.o: ..\User\gd32f4xx_libopt.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_rcu.h
+.\objects\bsp_lcd.o: ..\Firmware\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_adc.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_can.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_crc.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_ctc.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_dac.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_dbg.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_dci.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_dma.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_exti.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_fmc.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_fwdgt.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_gpio.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_syscfg.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_i2c.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_iref.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_pmu.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_rtc.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_sdio.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_spi.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_timer.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_trng.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_usart.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_wwdgt.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_misc.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_enet.h
+.\objects\bsp_lcd.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_exmc.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_ipa.h
+.\objects\bsp_lcd.o: ..\Firmware\GD32F4xx_standard_peripheral\Include\gd32f4xx_tli.h
+.\objects\bsp_lcd.o: ..\User\systick.h
+.\objects\bsp_lcd.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\bsp_lcd.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\bsp_lcd.o: ..\Hardware\led\bsp_led.h
+.\objects\bsp_lcd.o: ..\Hardware\usart\bsp_usart.h
+.\objects\bsp_lcd.o: ..\Hardware\key\bsp_key.h
+.\objects\bsp_lcd.o: ..\Hardware\timer\bsp_basic_timer.h
+.\objects\bsp_lcd.o: ..\Hardware\spi\bsp_spi.h
+.\objects\bsp_lcd.o: ..\Hardware\dma\bsp_dma.h
+.\objects\bsp_lcd.o: ..\Hardware\sdio\sdcard.h
+.\objects\bsp_lcd.o: ..\Hardware\sdio\bsp_sdcard.h
+.\objects\bsp_lcd.o: ..\User\main.h
+.\objects\bsp_lcd.o: ..\Hardware\lcd\bsp_lcd.h
+.\objects\bsp_lcd.o: ..\Hardware\adc\bsp_adc.h
+.\objects\bsp_lcd.o: ..\Hardware\dac\bsp_dac.h
+.\objects\bsp_lcd.o: ..\Hardware\sdram\exmc_sdram.h
+.\objects\bsp_lcd.o: ..\Hardware\spi\ws_drive_w25qxx.h
+.\objects\bsp_lcd.o: ..\Hardware\core\wb_core.h
+.\objects\bsp_lcd.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\bsp_lcd.o: ..\Hardware\fft\fft.h
+.\objects\bsp_lcd.o: D:\Keil v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\bsp_lcd.o: ..\DSP_LIB\Include\arm_math.h
+.\objects\bsp_lcd.o: ..\DSP_LIB\Include\core_cm4.h
+.\objects\bsp_lcd.o: ..\DSP_LIB\Include\arm_const_structs.h
+.\objects\bsp_lcd.o: ..\DSP_LIB\Include\arm_common_tables.h
+.\objects\bsp_lcd.o: ..\FatFs\FatFs\src\fatfs.h
+.\objects\bsp_lcd.o: ..\FatFs\FatFs\src\ff.h
+.\objects\bsp_lcd.o: ..\FatFs\FatFs\src\integer.h
+.\objects\bsp_lcd.o: ..\FatFs\FatFs\src\ffconf.h
+.\objects\bsp_lcd.o: ..\FatFs\FatFs\src\ff_gen_drv.h
+.\objects\bsp_lcd.o: ..\FatFs\FatFs\src\diskio.h
+.\objects\bsp_lcd.o: ..\FatFs\FatFs\src\drivers\sd_diskio.h
+.\objects\bsp_lcd.o: ..\Hardware\lcd\drive_dzcode.h

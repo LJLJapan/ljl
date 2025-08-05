@@ -1,0 +1,420 @@
+{
+  "name": "GD32F450",
+  "type": "ARM",
+  "dependenceList": [],
+  "srcDirs": [
+    ".eide/deps"
+  ],
+  "virtualFolder": {
+    "name": "<virtual_root>",
+    "files": [],
+    "folders": [
+      {
+        "name": "App",
+        "files": [],
+        "folders": []
+      },
+      {
+        "name": "CMSIS",
+        "files": [
+          {
+            "path": "../Firmware/CMSIS/GD/GD32F4xx/Source/ARM/startup_gd32f450_470.s"
+          },
+          {
+            "path": "../Firmware/CMSIS/GD/GD32F4xx/Source/system_gd32f4xx.c"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "Doc",
+        "files": [],
+        "folders": []
+      },
+      {
+        "name": "FatFs",
+        "files": [
+          {
+            "path": "../FatFs/FatFs/src/diskio.c"
+          },
+          {
+            "path": "../FatFs/FatFs/src/ff.c"
+          },
+          {
+            "path": "../FatFs/FatFs/src/ff_gen_drv.c"
+          },
+          {
+            "path": "../FatFs/FatFs/src/option/syscall.c"
+          },
+          {
+            "path": "../FatFs/FatFs/src/option/ccsbcs.c"
+          },
+          {
+            "path": "../FatFs/FatFs/src/drivers/sd_diskio.c"
+          },
+          {
+            "path": "../FatFs/FatFs/src/fatfs.c"
+          },
+          {
+            "path": "../FatFs/FatFs/src/ffconf.h"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "Firmware",
+        "files": [
+          {
+            "path": "../Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_gpio.c"
+          },
+          {
+            "path": "../Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_rcu.c"
+          },
+          {
+            "path": "../Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_usart.c"
+          },
+          {
+            "path": "../Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_misc.c"
+          },
+          {
+            "path": "../Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_syscfg.c"
+          },
+          {
+            "path": "../Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_exti.c"
+          },
+          {
+            "path": "../Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_timer.c"
+          },
+          {
+            "path": "../Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_dma.c"
+          },
+          {
+            "path": "../../../官方资料/梁山Pi开发板资料/04软件资料/代码例程-视频版/012串口中断DMA接收二合一/Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_spi.c"
+          },
+          {
+            "path": "../Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_sdio.c"
+          },
+          {
+            "path": "../Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_exmc.c"
+          },
+          {
+            "path": "../Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_tli.c"
+          },
+          {
+            "path": "../Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_pmu.c"
+          },
+          {
+            "path": "../Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_ctc.c"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "Hardware",
+        "files": [
+          {
+            "path": "../Hardware/led/bsp_led.c"
+          },
+          {
+            "path": "../Hardware/usart/bsp_usart.c"
+          },
+          {
+            "path": "../Hardware/key/bsp_key.c"
+          },
+          {
+            "path": "../Hardware/timer/bsp_basic_timer.c"
+          },
+          {
+            "path": "../Hardware/pwm/bsp_pwm.c"
+          },
+          {
+            "path": "../Hardware/dma/bsp_dma.c"
+          },
+          {
+            "path": "../Hardware/spi/bsp_spi.c"
+          },
+          {
+            "path": "../Hardware/sdio/sdcard.c"
+          },
+          {
+            "path": "../Hardware/sdio/bsp_sdcard.c"
+          },
+          {
+            "path": "../Hardware/sdram/exmc_sdram.c"
+          },
+          {
+            "path": "../Hardware/lcd/bsp_lcd.c"
+          },
+          {
+            "path": "../Hardware/usb_disk/gd32f4xx_hw.c"
+          },
+          {
+            "path": "../Hardware/usb_disk/usbd_storage_msd.c"
+          },
+          {
+            "path": "../Hardware/usb_disk/sram_msd.c"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "USB",
+        "files": [],
+        "folders": [
+          {
+            "name": "Device",
+            "files": [
+              {
+                "path": "../Firmware/GD32F4xx_usb_library/device/core/Source/usbd_core.c"
+              },
+              {
+                "path": "../Firmware/GD32F4xx_usb_library/device/core/Source/usbd_enum.c"
+              },
+              {
+                "path": "../Firmware/GD32F4xx_usb_library/device/core/Source/usbd_transc.c"
+              },
+              {
+                "path": "../Firmware/GD32F4xx_usb_library/device/class/msc/Source/usbd_msc_bbb.c"
+              },
+              {
+                "path": "../Firmware/GD32F4xx_usb_library/device/class/msc/Source/usbd_msc_core.c"
+              },
+              {
+                "path": "../Firmware/GD32F4xx_usb_library/device/class/msc/Source/usbd_msc_scsi.c"
+              },
+              {
+                "path": "../Firmware/GD32F4xx_usb_library/driver/Source/drv_usb_core.c"
+              },
+              {
+                "path": "../Firmware/GD32F4xx_usb_library/driver/Source/drv_usb_dev.c"
+              },
+              {
+                "path": "../Firmware/GD32F4xx_usb_library/driver/Source/drv_usbd_int.c"
+              }
+            ],
+            "folders": []
+          }
+        ]
+      },
+      {
+        "name": "User",
+        "files": [
+          {
+            "path": "../User/gd32f4xx_it.c"
+          },
+          {
+            "path": "../User/main.c"
+          },
+          {
+            "path": "../User/sys.c"
+          },
+          {
+            "path": "../User/systick.c"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "WS",
+        "files": [],
+        "folders": [
+          {
+            "name": "Drivers",
+            "files": [
+              {
+                "path": "../WS-Drivers/kernel.c"
+              },
+              {
+                "path": "../WS-Drivers/ws_drive_borad.c"
+              },
+              {
+                "path": "../WS-Drivers/ws_drive_w25qxx.c"
+              },
+              {
+                "path": "../WS-Drivers/ws_drive_config.c"
+              }
+            ],
+            "folders": []
+          }
+        ]
+      }
+    ]
+  },
+  "outDir": "build",
+  "deviceName": null,
+  "packDir": null,
+  "miscInfo": {
+    "uid": "eb6b29f725bfb83acbe0edd23c371b27"
+  },
+  "targets": {
+    "GD32F450": {
+      "excludeList": [],
+      "toolchain": "AC5",
+      "compileConfig": {
+        "cpuType": "Cortex-M4",
+        "floatingPointHardware": "single",
+        "scatterFilePath": "",
+        "useCustomScatterFile": false,
+        "storageLayout": {
+          "RAM": [
+            {
+              "tag": "RAM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            },
+            {
+              "tag": "RAM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            },
+            {
+              "tag": "RAM",
+              "id": 3,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "noInit": false
+            },
+            {
+              "tag": "IRAM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x20000000",
+                "size": "0x30000"
+              },
+              "isChecked": true,
+              "noInit": false
+            },
+            {
+              "tag": "IRAM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x10000000",
+                "size": "0x10000"
+              },
+              "isChecked": false,
+              "noInit": false
+            }
+          ],
+          "ROM": [
+            {
+              "tag": "ROM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            },
+            {
+              "tag": "ROM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            },
+            {
+              "tag": "ROM",
+              "id": 3,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            },
+            {
+              "tag": "IROM",
+              "id": 1,
+              "mem": {
+                "startAddr": "0x8000000",
+                "size": "0x100000"
+              },
+              "isChecked": true,
+              "isStartup": true
+            },
+            {
+              "tag": "IROM",
+              "id": 2,
+              "mem": {
+                "startAddr": "0x0",
+                "size": "0x0"
+              },
+              "isChecked": false,
+              "isStartup": false
+            }
+          ]
+        },
+        "options": "null"
+      },
+      "uploader": "JLink",
+      "uploadConfig": {
+        "bin": "",
+        "baseAddr": "",
+        "cpuInfo": {
+          "vendor": "GigaDevice",
+          "cpuName": "GD32F450ZG"
+        },
+        "proType": 1,
+        "speed": 8000,
+        "otherCmds": ""
+      },
+      "uploadConfigMap": {},
+      "custom_dep": {
+        "name": "default",
+        "incList": [
+          "../Firmware/GD32F4xx_standard_peripheral/Include",
+          "../Firmware/CMSIS",
+          "../Firmware/CMSIS/GD/GD32F4xx/Include",
+          "../User",
+          "../Hardware/led",
+          "../Hardware/usart",
+          "../Hardware/key",
+          "../Hardware/timer",
+          "../Hardware/pwm",
+          "../Hardware/dma",
+          "../WS-Drivers",
+          "../Hardware/spi",
+          "../Hardware/sdio",
+          "../FatFs/FatFs/src",
+          "../FatFs/FatFs/src/option",
+          "../FatFs/FatFs/src/drivers",
+          "../Hardware/sdram",
+          "../Hardware/lcd",
+          "../Firmware/GD32F4xx_usb_library/device/core/Include",
+          "../Firmware/GD32F4xx_usb_library/device/class/msc/Include",
+          "../Firmware/GD32F4xx_usb_library/driver/Include",
+          "../Hardware/usb_disk",
+          "../Firmware/GD32F4xx_usb_library/ustd/class/msc",
+          "../Firmware/GD32F4xx_usb_library/ustd/common",
+          ".cmsis/include",
+          "RTE/_GD32F450",
+          ".eide/deps"
+        ],
+        "libList": [],
+        "sourceDirList": [],
+        "defineList": [
+          "GD32F450",
+          "USE_USB_FS"
+        ]
+      }
+    }
+  },
+  "version": "3.3"
+}

@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "arm_math.h": "c",
+        "bsp_adc.h": "c",
+        "bsp_lcd.h": "c",
+        "wb_core.h": "c",
+        "gd32f4xx.h": "c",
+        "stdarg.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "bsp_key.h": "c",
+        "usbd_msc_core.h": "c",
+        "main.h": "c",
+        "bsp_basic_timer.h": "c",
+        "gd32f4xx_timer.h": "c",
+        "drv_usb_hw.h": "c",
+        "bsp_dma.h": "c",
+        "bsp_led.h": "c",
+        "ws_drive_w25qxx.h": "c",
+        "systick.h": "c",
+        "fatfs.h": "c",
+        "bsp_sdcard.h": "c",
+        "fft.h": "c",
+        "math.h": "c",
+        "ff.h": "c",
+        "integer.h": "c",
+        "bsp_usart.h": "c"
+    },
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true
+}
